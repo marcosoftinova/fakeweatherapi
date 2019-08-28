@@ -1,0 +1,22 @@
+[
+	{
+		"city": "Curitiba",
+		"temperature": 18,
+		"unityOfMeasurement": "Celcius"
+	},
+	{
+		"city": "New York",
+		"temperature": 50,
+		"unityOfMeasurement": "Fahrenheit"
+	},
+	{
+		"city": "London",
+		"temperature": 35.6,
+		"unityOfMeasurement": "Fahrenheit"
+	},
+	{
+		"city": "Shangai",
+		"temperature": 16,
+		"unityOfMeasurement": "Celcius"
+	}
+]

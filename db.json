@@ -4,25 +4,29 @@
 		"id": 1,
 		"city": "Curitiba",
 		"temperature": 18,
-		"unityOfMeasurement": "Celcius"
+		"unityOfMeasurement": "Celcius",
+		"success": true
 	},
 	{
 		"id": 2,
 		"city": "New York",
 		"temperature": 50,
-		"unityOfMeasurement": "Fahrenheit"
+		"unityOfMeasurement": "Fahrenheit",
+		"success": true
 	},
 	{
 		"id": 3,
 		"city": "London",
 		"temperature": 35.6,
-		"unityOfMeasurement": "Fahrenheit"
+		"unityOfMeasurement": "Fahrenheit",
+		"success": true
 	},
 	{
 		"id": 4,
 		"city": "Shangai",
 		"temperature": 16,
-		"unityOfMeasurement": "Celcius"
+		"unityOfMeasurement": "Celcius",
+		"success": true
 	}
 ]
 }
